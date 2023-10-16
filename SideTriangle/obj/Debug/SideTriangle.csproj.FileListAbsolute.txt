@@ -1,0 +1,11 @@
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\bin\Debug\SideTriangle.exe.config
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\bin\Debug\SideTriangle.exe
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\bin\Debug\SideTriangle.pdb
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.csproj.AssemblyReference.cache
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.csproj.SuggestedBindingRedirects.cache
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.Main.resources
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.Properties.Resources.resources
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.csproj.GenerateResource.cache
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.csproj.CoreCompileInputs.cache
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.exe
+K:\Колледж\Тестирование\Лаб 1\SideTriangle\SideTriangle\obj\Debug\SideTriangle.pdb
